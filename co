@@ -1,0 +1,246 @@
+\documentclass{beamer}
+%
+% Choose how your presentation looks.
+%
+% For more themes, color themes and font themes, see:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+%
+\mode<presentation>
+{
+  % \usetheme{default}      % or try Darmstadt, Madrid, Warsaw, ...
+  % \usecolortheme{default}
+
+  \usetheme{Darmstadt}
+\usecolortheme{default}
+  \usepackage{beamerthemesplit}% or try albatross, beaver, crane, ...
+  \usefonttheme{default}  % or try serif, structurebold, ...
+  % \setbeamertemplate{navigation symbols}{}
+  % \setbeamertemplate{caption}[numbered]
+} 
+
+\usepackage{graphicx}
+\usepackage{subfig}
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+% \logo{\includegraphics[height=0.75cm]{D0.jpg}}
+\title[Water Body Point Graphs \hspace{0.5cm}\insertframenumber/\inserttotalframenumber]{Water Body Point Graphs}
+% \subtitle{By Ittay Eyal and Emin Gün Sirer}
+
+\author{}
+% \institute{ Indian Institute of Technology \\ Delhi }
+\date{\today}
+% \logo{\includegraphics[height=1.5cm]{TRANSPARENT+iitd+logo.png}}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+
+
+
+
+\begin{frame}{Garhi Dam}
+
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=.8\textwidth]{Garhi.png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Garhi (1).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Garhi (2).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Garhi (3).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Garhi (4).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Garhi (5).png}
+
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Vidya Sagar Pond(Seasonal)}
+
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=.8\textwidth]{Vidya.png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Vidya (1).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Vidya (2).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Vidya (3).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Vidya (4).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Vidya (5).png}
+
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{Vadagud Pond (Seasonal)}
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=.8\textwidth]{VadagudS.png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{VaagudS (1).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{VaagudS (2).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{VaagudS (3).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{VaagudS (4).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{VaagudS (5).png}
+
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Mangalore Pond (Perennial Center)}
+    \begin{figure}[p]
+  \centering
+  \includegraphics[width=.8\textwidth]{Mangalore C.png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore C (1).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Mangalore C (2).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore C (3).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Mangalore C (4).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore C (5).png}
+
+\end{figure}
+\end{frame}
+
+\begin{frame}{Mangalore Pond (Perennial Edge)}
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=.8\textwidth]{Mangalore Edge.png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore Edge (1).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Mangalore Edge (2).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore Edge (3).png}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\begin{frame}{}
+\begin{figure}[p]
+  \centering
+
+  \includegraphics[width=.8\textwidth]{Mangalore Edge (4).png}
+  \vspace{0.1cm}
+  \includegraphics[width=.8\textwidth]{Mangalore Edge (5).png}
+
+\end{figure}
+\end{frame}
+
+
+\end{document}
